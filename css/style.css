@@ -1,0 +1,179 @@
+/* All common css start  */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a,a:hover{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    padding: 0;
+}
+/* all common css end  */
+
+.btn-primary.focus, .btn-primary:focus {
+    box-shadow: none;
+}
+ /* jqery start  */
+.main{
+    margin-top: 50px;
+    width: 1250px;
+    height: 400px;
+    background: url(../images/ayan.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.hope{
+    width: 200px;
+    height: 200px;
+    background: url(../images/ali.jpg);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+} 
+.hope_two{
+    width: 200px;
+    height: 200px;
+    background: url(../images/ayan.jpg);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+button{
+    padding: 10px;
+    background: turquoise;
+    border: none;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    cursor: pointer;
+
+}
+.hope{
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+
+.sathi{
+    width: 300px;
+    height: 300px;
+    background: url(../images/ayan.jpg);
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.sathi_two{
+    width: 300px;
+    height: 300px;
+    background: url(../images/ali.jpg);
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.ayna{
+text-align: center;
+margin-bottom: 50px;
+}
+.acordion{
+    margin-bottom: 100px;
+}
+.one{
+    height: 50px;
+    background-color: aqua;
+    margin: 0 auto;
+    cursor: pointer;
+}
+.one p{
+    text-align: center;
+    line-height: 50px;
+    color: blue;
+    text-transform: uppercase;
+}
+.two{
+    background-color: rgb(241, 207, 14);
+    padding: 20px;
+    display: none;
+}
+.two p{
+    color: rgb(9, 22, 214);
+    text-transform: uppercase;
+}
+.two span{
+    color: crimson;
+}
+
+/* ===================================== */
+.ahsan{
+    height: 50px;
+    background-color: rgba(255, 0, 128, 0.445);
+    margin: 0 auto;
+    cursor: pointer;
+}
+.ahsan p{
+    text-align: center;
+    line-height: 50px;
+    color: blue;
+    text-transform: uppercase;
+}
+.hasan{
+    background-color: rgb(241, 207, 14);
+    padding: 20px;
+    display: none;
+}
+.hasan p{
+    color: rgb(9, 22, 214);
+    text-transform: uppercase;
+}
+.hasan span{
+    color: crimson;
+}
+/* =================================== */
+.muller{
+    height: 50px;
+    background-color: rgba(63, 233, 12, 0.445);
+    margin: 0 auto;
+    cursor: pointer;
+}
+.muller p{
+    text-align: center;
+    line-height: 50px;
+    color: blue;
+    text-transform: uppercase;
+}
+.musiala{
+    background-color: rgb(243, 209, 18);
+    padding: 20px;
+    display: none;
+}
+.musiala p{
+    color: rgb(9, 22, 214);
+    text-transform: uppercase;
+}
+.musiala span{
+    color: crimson;
+}
